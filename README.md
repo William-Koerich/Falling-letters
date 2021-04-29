@@ -44,6 +44,6 @@ Tecnologias que utilizem para resolução desse desafio.
 
 ---
 
-Você pode ver o resultado final aqui: [Preview](https://keyboard-hero.netlify.app/).
+Você pode ver o resultado final aqui: [Preview](https://falling-letters.netlify.app/).
 
 by [William Koerich](https://github.com/William-Koerich)
